@@ -8,6 +8,10 @@
 
 //tests start
 //2
+//3
+//4
+//5
+//6
 package embeddedmediaplayer;
 
 import org.junit.After;
